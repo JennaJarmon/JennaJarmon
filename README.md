@@ -1,8 +1,6 @@
 ## Hi 👋, I'm Jenna, a professional business analyst
 
 <!--
-**JennaJarmon/JennaJarmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I’m resilient and growth-driven employee transitioning into Business Intelligence after building a diverse career in healthcare, transcription, and document control. My experience as a single mom of four has strengthened my ability to prioritize, solve problems creatively, and stay focused under pressure. 
 
 I’m currently enrolled in a BI bootcamp, developing skills in data analytics, SQL, Tableau, Power BI, and strategic decision-making. 
